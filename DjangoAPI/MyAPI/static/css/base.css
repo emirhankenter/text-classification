@@ -1,0 +1,51 @@
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: white;
+  opacity: 0.8;
+  font-size: 14px; /* Firefox */
+}
+.button {
+  background-color: #DDDDDD;
+  border: none;
+  color: white;
+  padding: 12px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: #237705
+}
+.form {
+
+}
+.container {
+  background-color:rgba(0, 0, 0, 0.1);
+  margin: auto;
+  width: 50%;
+}
+.inputField {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    height: 40px;
+    width: 300px;
+    text-align: center;
+    color: #aaa;
+    text-decoration-color: #000;
+    background-color:transparent;
+    border-bottom: 1px solid #fff;
+    box-shadow: 0 1px 0 0 #fff;
+    border-style: none;
+    background-repeat: no-repeat;
+    background-position: 6px 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.inputField:hover {
+  background-color: rgba(220, 220, 220, 0.1);
+}
+body {
+  background-color: #B2BFAD
+}
